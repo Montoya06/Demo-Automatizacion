@@ -1,0 +1,507 @@
+<html lang="es-CO" class=" js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform "><head>
+	
+		<meta charset="UTF-8">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
+		<title>Datacenter Colombia</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Datacenter Colombia » Feed" href="https://www.dcsas.com.co/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="Datacenter Colombia » RSS de los comentarios" href="https://www.dcsas.com.co/index.php/comments/feed/">
+<script type="text/javascript">//<![CDATA[
+window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dcsas.com.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+//]]></script>
+<style id="wp-emoji-styles-inline-css" type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.dcsas.com.co/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
+<style id="global-styles-inline-css" type="text/css">body{--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#eee 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#9896f0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#6b003e 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#c751c0 50%,#4158d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#33a7b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#020381 0%,#2874fc 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:.44rem;--wp--preset--spacing--30:.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0,0,0,.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0,0,0,.4);--wp--preset--shadow--sharp:6px 6px 0 rgba(0,0,0,.2);--wp--preset--shadow--outlined:6px 6px 0 -3px rgba(255,255,255,1) , 6px 6px rgba(0,0,0,1);--wp--preset--shadow--crisp:6px 6px 0 rgba(0,0,0,1)}:where(.is-layout-flex){gap:.5em}:where(.is-layout-grid){gap:.5em}body .is-layout-flex{display:flex}body .is-layout-flex{flex-wrap:wrap;align-items:center}body .is-layout-flex>*{margin:0}body .is-layout-grid{display:grid}body .is-layout-grid>*{margin:0}:where(.wp-block-columns.is-layout-flex){gap:2em}:where(.wp-block-columns.is-layout-grid){gap:2em}:where(.wp-block-post-template.is-layout-flex){gap:1.25em}:where(.wp-block-post-template.is-layout-grid){gap:1.25em}.has-black-color{color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-color{color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-color{color:var(--wp--preset--color--white)!important}.has-pale-pink-color{color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-color{color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-color{color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-color{color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-color{color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-color{color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-color{color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-color{color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-color{color:var(--wp--preset--color--vivid-purple)!important}.has-black-background-color{background-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-background-color{background-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-background-color{background-color:var(--wp--preset--color--white)!important}.has-pale-pink-background-color{background-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-background-color{background-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-background-color{background-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-background-color{background-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-background-color{background-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-background-color{background-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-background-color{background-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-background-color{background-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-background-color{background-color:var(--wp--preset--color--vivid-purple)!important}.has-black-border-color{border-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-border-color{border-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-border-color{border-color:var(--wp--preset--color--white)!important}.has-pale-pink-border-color{border-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-border-color{border-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-border-color{border-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-border-color{border-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-border-color{border-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-border-color{border-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-border-color{border-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-border-color{border-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-border-color{border-color:var(--wp--preset--color--vivid-purple)!important}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)!important}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan)!important}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange)!important}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red)!important}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray)!important}.has-cool-to-warm-spectrum-gradient-background{background:var(--wp--preset--gradient--cool-to-warm-spectrum)!important}.has-blush-light-purple-gradient-background{background:var(--wp--preset--gradient--blush-light-purple)!important}.has-blush-bordeaux-gradient-background{background:var(--wp--preset--gradient--blush-bordeaux)!important}.has-luminous-dusk-gradient-background{background:var(--wp--preset--gradient--luminous-dusk)!important}.has-pale-ocean-gradient-background{background:var(--wp--preset--gradient--pale-ocean)!important}.has-electric-grass-gradient-background{background:var(--wp--preset--gradient--electric-grass)!important}.has-midnight-gradient-background{background:var(--wp--preset--gradient--midnight)!important}.has-small-font-size{font-size:var(--wp--preset--font-size--small)!important}.has-medium-font-size{font-size:var(--wp--preset--font-size--medium)!important}.has-large-font-size{font-size:var(--wp--preset--font-size--large)!important}.has-x-large-font-size{font-size:var(--wp--preset--font-size--x-large)!important}.wp-block-navigation a:where(:not(.wp-element-button)){color:inherit}:where(.wp-block-post-template.is-layout-flex){gap:1.25em}:where(.wp-block-post-template.is-layout-grid){gap:1.25em}:where(.wp-block-columns.is-layout-flex){gap:2em}:where(.wp-block-columns.is-layout-grid){gap:2em}.wp-block-pullquote{font-size:1.5em;line-height:1.6}</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.dcsas.com.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.5" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">#rs-demo-id{}</style>
+<link rel="stylesheet" id="innovio-mikado-default-style-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/style.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-modules-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/assets/css/modules.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-dripicons-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/dripicons/dripicons.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-font_elegant-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/elegant-icons/style.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-font_awesome-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/font-awesome/css/fontawesome-all.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-ion_icons-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/ion-icons/css/ionicons.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-linea_icons-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/linea-icons/style.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-linear_icons-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/linear-icons/style.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-simple_line_icons-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/framework/lib/icons-pack/simple-line-icons/simple-line-icons.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="https://www.dcsas.com.co/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.dcsas.com.co/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-style-dynamic-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/assets/css/style_dynamic.css?ver=1637341438" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-modules-responsive-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/assets/css/modules-responsive.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-style-dynamic-responsive-css" href="https://www.dcsas.com.co/wp-content/themes/innovio/assets/css/style_dynamic_responsive.css?ver=1637341438" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-mikado-google-fonts-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100i%2C300%2C300i%2C400%2C500%2C500i%2C600%2C700%2C700i%7CLato%3A100%2C100i%2C300%2C300i%2C400%2C500%2C500i%2C600%2C700%2C700i&amp;subset=latin-ext&amp;ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="innovio-core-dashboard-style-css" href="https://www.dcsas.com.co/wp-content/plugins/innovio-core/core-dashboard/assets/css/core-dashboard.min.css?ver=6.5.3" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.dcsas.com.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.5" id="revmin-js"></script>
+<link rel="https://api.w.org/" href="https://www.dcsas.com.co/index.php/wp-json/"><link rel="alternate" type="application/json" href="https://www.dcsas.com.co/index.php/wp-json/wp/v2/pages/5707"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dcsas.com.co/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.5.3">
+<link rel="canonical" href="https://www.dcsas.com.co/">
+<link rel="shortlink" href="https://www.dcsas.com.co/">
+<link rel="alternate" type="application/json+oembed" href="https://www.dcsas.com.co/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dcsas.com.co%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.dcsas.com.co/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dcsas.com.co%2F&amp;format=xml">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+		<style type="text/css" id="wp-custom-css">.mkdf-page-footer .mkdf-footer-top-holder .mkdf-footer-top-inner.mkdf-grid{padding:50px 0 20px 0}.mkdf-page-footer .mkdf-footer-bottom-holder .mkdf-footer-bottom-inner.mkdf-grid{padding:3px 0 8px}footer .widget ul li{display:block;line-height:20px;margin:0;padding:0 0}mkdf-grid-col-6 div div p span .bto2{text-align:right}.mkdf-page-footer .mkdf-footer-bottom-holder{text-align:center}footer .widget.widget_text img{padding-top:80px}footer .textwidget a:hover{color:#76b82a}</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1616080157335{padding-top:10px!important;padding-bottom:50px!important}.vc_custom_1616084304391{padding-top:50px!important;padding-bottom:50px!important}.vc_custom_1616080300741{padding-top:35px!important;padding-bottom:35px!important}.vc_custom_1616081033466{padding-top:75px!important;padding-bottom:50px!important}.vc_custom_1616088189542{padding-top:75px!important;padding-bottom:50px!important}</style><noscript><style>.wpb_animate_when_almost_visible{opacity:1}</style></noscript><style>#rev_slider_1_1_wrapper { height: 223.84615384615384px }#rev_slider_36_2_wrapper { height: 223.84615384615384px }</style><script src="https://www.dcsas.com.co/wp-includes/js/wp-emoji-release.min.js?ver=6.5.3" defer=""></script><style>.fluidvids {width: 100%; max-width: 100%; position: relative;}.fluidvids-item {position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;}</style><style type="text/css">@media only screen and (min-width: 1367px) and (max-width: 1600px) {.mkdf-eh-item-content.mkdf-eh-custom-3661 { padding: 0 18% 0 12% !important; } }@media only screen and (min-width: 1025px) and (max-width: 1366px) {.mkdf-eh-item-content.mkdf-eh-custom-3661 { padding: 0 12% !important; } }@media only screen and (min-width: 769px) and (max-width: 1024px) {.mkdf-eh-item-content.mkdf-eh-custom-3661 { padding: 7% 8% 6% 13% !important; } }@media only screen and (min-width: 681px) and (max-width: 768px) {.mkdf-eh-item-content.mkdf-eh-custom-3661 { padding: 10% 0 6% 10% !important; } }@media only screen and (max-width: 680px) {.mkdf-eh-item-content.mkdf-eh-custom-3661 { padding: 12% 0 10% 2% !important; } }</style><style type="text/css">@media only screen and (min-width: 1367px) and (max-width: 1600px) {.mkdf-eh-item-content.mkdf-eh-custom-1401 { padding: 0 18% 0 12% !important; } }@media only screen and (min-width: 1025px) and (max-width: 1366px) {.mkdf-eh-item-content.mkdf-eh-custom-1401 { padding: 0 12% !important; } }@media only screen and (min-width: 769px) and (max-width: 1024px) {.mkdf-eh-item-content.mkdf-eh-custom-1401 { padding: 7% 8% 6% 13% !important; } }@media only screen and (min-width: 681px) and (max-width: 768px) {.mkdf-eh-item-content.mkdf-eh-custom-1401 { padding: 10% 0 6% 10% !important; } }@media only screen and (max-width: 680px) {.mkdf-eh-item-content.mkdf-eh-custom-1401 { padding: 12% 0 10% 2% !important; } }</style></head>
+<body data-rsssl="1" class="home page-template page-template-full-width page-template-full-width-php page page-id-5707 innovio-core-1.2 innovio-ver-1.4 mkdf-grid-1000 mkdf-empty-google-api mkdf-wide-dropdown-menu-content-in-grid mkdf-sticky-header-on-scroll-up mkdf-dropdown-animate-height mkdf-header-standard mkdf-menu-area-shadow-disable mkdf-menu-area-in-grid-shadow-disable mkdf-menu-area-border-disable mkdf-menu-area-in-grid-border-disable mkdf-logo-area-border-disable mkdf-logo-area-in-grid-border-disable mkdf-header-vertical-shadow-disable mkdf-header-vertical-border-disable mkdf-default-mobile-header mkdf-sticky-up-mobile-header wpb-js-composer js-comp-ver-6.1 vc_responsive" itemscope="" itemtype="http://schema.org/WebPage">
+	
+    <div class="mkdf-wrapper">
+        <div class="mkdf-wrapper-inner">
+            
+<header class="mkdf-page-header">
+		
+				
+	<div class="mkdf-menu-area mkdf-menu-right">
+				
+					<div class="mkdf-grid">
+						
+			<div class="mkdf-vertical-align-containers">
+				<div class="mkdf-position-left"><!--
+				 --><div class="mkdf-position-left-inner">
+						
+	
+	<div class="mkdf-logo-wrapper">
+		<a itemprop="url" href="https://www.dcsas.com.co/" style="height: 48px;">
+			<img itemprop="image" class="mkdf-normal-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="logo">
+			<img itemprop="image" class="mkdf-dark-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="dark logo">			<img itemprop="image" class="mkdf-light-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="light logo">		</a>
+	</div>
+
+											</div>
+				</div>
+								<div class="mkdf-position-right"><!--
+				 --><div class="mkdf-position-right-inner">
+														
+	<nav class="mkdf-main-menu mkdf-drop-down mkdf-default-nav">
+		<ul id="menu-main-menu" class="clearfix"><li id="nav-menu-item-5773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5707 current_page_item mkdf-active-item narrow"><a href="https://www.dcsas.com.co/" class=" current "><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Home</span></span></a></li>
+<li id="nav-menu-item-5772" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.dcsas.com.co/index.php/sobre-nosotros/" class=""><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Sobre nosotros</span></span></a></li>
+<li id="nav-menu-item-5795" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.dcsas.com.co/index.php/contacto/" class=""><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Contacto</span></span></a></li>
+</ul>	</nav>
+
+																	</div>
+				</div>
+			</div>
+			
+					</div>
+			</div>
+			
+		
+	
+<div class="mkdf-sticky-header">
+        <div class="mkdf-sticky-holder mkdf-menu-right">
+                <div class="mkdf-grid">
+                        <div class="mkdf-vertical-align-containers">
+                <div class="mkdf-position-left"><!--
+                 --><div class="mkdf-position-left-inner">
+                        
+	
+	<div class="mkdf-logo-wrapper">
+		<a itemprop="url" href="https://www.dcsas.com.co/" style="height: 48px;">
+			<img itemprop="image" class="mkdf-normal-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="logo">
+			<img itemprop="image" class="mkdf-dark-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="dark logo">			<img itemprop="image" class="mkdf-light-logo" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="light logo">		</a>
+	</div>
+
+                                            </div>
+                </div>
+                                <div class="mkdf-position-right"><!--
+                 --><div class="mkdf-position-right-inner">
+                                                    
+<nav class="mkdf-main-menu mkdf-drop-down mkdf-sticky-nav">
+    <ul id="menu-main-menu-1" class="clearfix"><li id="sticky-nav-menu-item-5773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5707 current_page_item mkdf-active-item narrow"><a href="https://www.dcsas.com.co/" class=" current "><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Home</span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-5772" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.dcsas.com.co/index.php/sobre-nosotros/" class=""><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Sobre nosotros</span><span class="plus"></span></span></a></li>
+<li id="sticky-nav-menu-item-5795" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="https://www.dcsas.com.co/index.php/contacto/" class=""><span class="item_outer"><span class="item_text"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>Contacto</span><span class="plus"></span></span></a></li>
+</ul></nav>
+
+                                                                    </div>
+                </div>
+            </div>
+                    </div>
+            </div>
+	</div>
+
+	
+	</header>
+
+
+<header class="mkdf-mobile-header mkdf-animate-mobile-header" style="margin-bottom: 0px;">
+		
+	<div class="mkdf-mobile-header-inner">
+		<div class="mkdf-mobile-header-holder">
+			<div class="mkdf-grid">
+				<div class="mkdf-vertical-align-containers">
+					<div class="mkdf-vertical-align-containers">
+						<div class="mkdf-position-left"><!--
+						 --><div class="mkdf-position-left-inner">
+								
+<div class="mkdf-mobile-logo-wrapper">
+	<a itemprop="url" href="https://www.dcsas.com.co/" style="height: 48px">
+		<img itemprop="image" src="https://dcsas.com.co/wp-content/uploads/2021/05/Datacenter-logo-1.png" width="386" height="96" alt="Mobile Logo">
+	</a>
+</div>
+
+							</div>
+						</div>
+						<div class="mkdf-position-right"><!--
+						 --><div class="mkdf-position-right-inner">
+																									<div class="mkdf-mobile-menu-opener mkdf-mobile-menu-opener-icon-pack">
+										<a href="javascript:void(0)">
+																						<span class="mkdf-mobile-menu-icon">
+												<span aria-hidden="true" class="mkdf-icon-font-elegant icon_menu "></span>											</span>
+										</a>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="mkdf-mobile-nav" role="navigation" aria-label="Mobile Menu">
+    <div class="mkdf-grid">
+        <ul id="menu-main-menu-2" class=""><li id="mobile-menu-item-5773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5707 current_page_item mkdf-active-item"><a href="https://www.dcsas.com.co/" class=" current "><span>Home</span></a></li>
+<li id="mobile-menu-item-5772" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.dcsas.com.co/index.php/sobre-nosotros/" class=""><span>Sobre nosotros</span></a></li>
+<li id="mobile-menu-item-5795" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.dcsas.com.co/index.php/contacto/" class=""><span>Contacto</span></a></li>
+</ul>    </div>
+</nav>
+	</div>
+	
+	</header>
+
+	        
+            <div class="mkdf-content">
+                <div class="mkdf-content-inner">
+<div class="mkdf-full-width">
+    	<div class="mkdf-full-width-inner">
+        					<div class="mkdf-grid-row">
+				<div class="mkdf-page-content-holder mkdf-grid-col-12">
+					<div class="mkdf-row-grid-section-wrapper "><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1616080157335 vc_row-o-content-middle vc_row-flex mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+			<!-- START Home  Inner 1 REVOLUTION SLIDER 6.1.5 -->
+			<rs-fullwidth-wrap id="rev_slider_1_1_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; position: absolute; overflow: visible; width: 1263px; left: -132px; height: 583px;"><rs-module id="rev_slider_1_1" style="height: 583px; max-height: 600px; margin-top: 0px; margin-bottom: 0px;" data-version="6.1.5" class="revslider-initialised rev_redraw_on_blurfocus" data-idcheck="true" data-slideactive="rs-1">
+					<rs-slides style="visibility: visible; display: block; max-height: none; height: 100%; width: 100%; overflow: hidden;">
+						<rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" style="overflow: hidden; height: 100%; width: 100%; z-index: 20; visibility: inherit; opacity: 1;" data-owidth="300" data-oheight="200" data-ntrid="0" class="active-rs-slide"><rs-sbg-px style="background-color: rgba(255, 255, 255, 0);"><rs-sbg-wrap data-owidth="300" data-oheight="200" style="transform-origin: 50% 50% 0px; opacity: 1; visibility: inherit; top: 0px; left: 0px; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img decoding="async" src="//www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png" title="Home" class="rev-slidebg" data-no-retina="">--><rs-sbg src="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png" class="" data-bgcolor="transparent" style="background: transparent; width: 100%; height: 100%; opacity: 1; top: 0px; left: 0px; visibility: inherit; z-index: 20;" data-src-rs-ref="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png"></rs-sbg></rs-sbg-wrap></rs-sbg-px>
+							
+<!--
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 80px; top: 98px; z-index: 8; visibility: visible;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; visibility: visible; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-3" data-type="image" data-xy="x:c;xo:-340px,-291px,-16px,4px;y:m;yo:18px,5px,13px,3px;" data-text="l:22;a:inherit;" data-dim="w:423px,342px,266px,189px;h:423px,342px,266px,189px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;st:200;sp:800;sR:200;" data-frame_999="o:0;tp:600;st:w;sp:500;sR:8000;" style="z-index: 8; visibility: visible; overflow: hidden; border-color: rgb(102, 106, 128); border-style: none; margin: 0px; border-radius: 0px; padding: 0px; color: rgb(255, 255, 255); width: 423px; height: 423px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img fetchpriority="high" decoding="async" src="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-1-1.png" width="423" height="423" data-no-retina="" data-src-rs-ref="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-1-1.png" style="height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: -16px; top: 348px; z-index: 9; visibility: visible;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; visibility: visible; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-4" data-type="image" data-xy="x:c;xo:-551px,-464px,-149px,-89px;y:m;yo:150px,113px,97px,61px;" data-text="l:22;a:inherit;" data-dim="w:193px,156px,119px,87px;h:186px,150px,114px,83px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:-50px;tp:600;" data-frame_1="tp:600;st:400;sp:800;sR:400;" data-frame_999="o:0;tp:600;st:w;sR:7800;" style="z-index: 9; visibility: visible; overflow: hidden; border-color: rgb(102, 106, 128); border-style: none; margin: 0px; border-radius: 0px; padding: 0px; color: rgb(255, 255, 255); width: 193px; height: 186px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" src="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-3-1.png" width="193" height="186" data-no-retina="" data-src-rs-ref="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-3-1.png" style="height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 414px; top: 67px; z-index: 7; visibility: visible;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; visibility: visible; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-5" data-type="image" data-xy="x:c;xo:-118px,-109px,126px,103px;y:m;yo:-81px,-74px,-49px,-41px;" data-text="l:22;a:inherit;" data-dim="w:199px,160px,124px,88px;h:286px,230px,178px,126px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:50px;tp:600;" data-frame_1="tp:600;st:400;sp:800;sR:400;" data-frame_999="o:0;tp:600;st:w;sR:7800;" style="z-index: 7; visibility: visible; overflow: hidden; border-color: rgb(102, 106, 128); border-style: none; margin: 0px; border-radius: 0px; padding: 0px; color: rgb(255, 255, 255); width: 199px; height: 286px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><img decoding="async" src="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-2-1.png" width="199" height="286" data-no-retina="" data-src-rs-ref="https://dcsas.com.co/wp-content/uploads/2021/03/home-inner-2-1.png" style="height: 100%; width: 100%;"> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+-->						</rs-slide>
+					</rs-slides>
+					<rs-progress class="rs-bottom" style="visibility: hidden !important; width: 0%;"></rs-progress>
+				</rs-module>
+				
+				<script type="text/javascript">setREVStartSize({c:'rev_slider_1_1',rl:[1240,1024,778,480],el:[600,500,320,250],gw:[1300,1100,600,300],gh:[600,500,320,250],layout:'fullwidth',mh:"0"});var revapi1,tpj;jQuery(function(){tpj=jQuery;if(tpj("#rev_slider_1_1").revolution==undefined){revslider_showDoubleJqueryError("#rev_slider_1_1");}else{revapi1=tpj("#rev_slider_1_1").show().revolution({sliderType:"hero",jsFileLocation:"//www.dcsas.com.co/wp-content/plugins/revslider/public/assets/js/",sliderLayout:"fullwidth",visibilityLevels:"1240,1024,778,480",gridwidth:"1300,1100,600,300",gridheight:"600,500,320,250",minHeight:"",editorheight:"600,500,320,250",responsiveLevels:"1240,1024,778,480",disableProgressBar:"on",navigation:{onHoverStop:false},viewPort:{enable:true,visible_area:"2%"},fallbacks:{allowHTML5AutoPlayOnAndroid:true},});}});</script>
+			</rs-module-wrap><rs-fw-forcer style="height: 583px;"></rs-fw-forcer></rs-fullwidth-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-elements-holder   mkdf-one-column  mkdf-responsive-mode-768 "><div class="mkdf-eh-item    " data-item-class="mkdf-eh-custom-3661" data-1367-1600="0 18% 0 12%" data-1025-1366="0 12%" data-769-1024="7% 8% 6% 13%" data-681-768="10% 0 6% 10%" data-680="12% 0 10% 2%">
+	<div class="mkdf-eh-item-inner">
+		<div class="mkdf-eh-item-content mkdf-eh-custom-3661" style="padding: 0 18% 0 12%">
+			<div class="mkdf-section-title-holder mkdf-st-standard mkdf-st-left-aligned mkdf-section-title-appeared" style="text-align: left">
+	<div class="mkdf-st-inner">
+        					<h4 class="mkdf-st-title">
+				Somos Datacenter Colombia			</h4>
+		        					<p class="mkdf-st-text" style="font-size: 15px;line-height: 22px">
+				Operador tecnológico que brinda soporte en redes transaccionales multiservicio. Desarrollamos soluciones de software integrales en ambientes digitales. Compañía del Grupo Empresarial en Línea GELSA			</p>
+			</div>
+</div><div class="vc_empty_space" style="height: 44px"><span class="vc_empty_space_inner"></span></div><a itemprop="url" href="https://dcsas.com.co/index.php/contacto/" target="_self" style="background-color: #23398c" class="mkdf-btn mkdf-btn-medium mkdf-btn-solid mkdf-btn-custom-hover-bg mkdf-btn-predefined-arrow" data-hover-bg-color="#76b82a">
+    <span class="mkdf-btn-text">Contáctanos</span>
+                    <svg class="mkdf-btn-svg-one" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>
+                <svg class="mkdf-btn-svg-two" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 9" style="enable-background:new 0 0 26 9;" xml:space="preserve">
+                    <path d="M26,4.7C26,4.6,26,4.4,26,4.3c0-0.1-0.1-0.1-0.1-0.2l-3.5-3.5c-0.2-0.2-0.5-0.2-0.7,0s-0.2,0.5,0,0.7L24.3,4
+                    H0.5C0.2,4,0,4.2,0,4.5S0.2,5,0.5,5h23.8l-2.7,2.7c-0.2,0.2-0.2,0.5,0,0.7c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1l3.5-3.5
+                    C25.9,4.8,25.9,4.8,26,4.7z"></path>
+                </svg>
+            </a>		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1616084304391 mkdf-grid-lines-light" style="background-color:#e8e9ed"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Transacciones.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Transacciones.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Transacciones-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Procesamos más de 1.2 millones de transacciones diarias</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Bogota.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Bogota.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Bogota-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Nuestra red opera en Bogotá y en gran parte de los municipios de Cundinamarca</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Software.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Software.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Software-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Especialistas en Desarrollo de Software y Administración de ambientes transaccionales</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/B2B.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/B2B.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/B2B-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Consultoría TIC, Analytics, Bussines Intelligence y Integración B2B</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div></div></div><div class="mkdf-row-grid-section-wrapper " style="background-color:#23398c"><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1616080300741 vc_row-o-content-middle vc_row-flex mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+			<!-- START home  B2B REVOLUTION SLIDER 6.1.5 -->
+			<rs-fullwidth-wrap id="rev_slider_36_2_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_36_2_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; position: absolute; overflow: visible; width: 1263px; left: -132px;"><rs-module id="rev_slider_36_2" style="height: 223.844px; max-height: 600px; margin-top: 0px; margin-bottom: 0px;" data-version="6.1.5" class="revslider-initialised rev_redraw_on_blurfocus tp-waitforfirststart" data-idcheck="true">
+					<rs-slides style="visibility: visible; display: block; max-height: none; height: 100%; width: 100%; overflow: hidden;">
+						<rs-slide data-key="rs-62" data-title="Slide" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" style="overflow: hidden; height: 100%; width: 100%;"><rs-sbg-px><rs-sbg-wrap><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img decoding="async" src="//www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png" title="Home" class="rev-slidebg" data-no-retina="">--><rs-sbg src="https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png" class="" data-bgcolor="transparent" style="background-color:transparent;background-repeat:no-repeat;background-image:url(https://www.dcsas.com.co/wp-content/plugins/revslider/public/assets/assets/transparent.png);background-size:cover;background-position:50% 50%;width:100%;height:100%;"></rs-sbg></rs-sbg-wrap></rs-sbg-px>
+							
+<!--
+							--><rs-layer-wrap class="rs-parallax-wrap " style=" position:absolute;display:block;;pointer-events:none"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position:absolute;display:block;"><rs-layer id="slider-36-slide-62-layer-3" data-type="image" data-xy="x:c;xo:-244px,-245px,10px,4px;y:m;yo:-54px,-7px,7px,3px;" data-text="l:22;a:inherit;" data-dim="w:452.4822695035461px,418px,334px,229px;h:319px,295px,235px,161px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="sX:0.9;sY:0.9;tp:600;" data-frame_1="tp:600;st:200;sp:800;sR:200;" data-frame_999="o:0;tp:600;st:w;sp:500;sR:8000;" style="z-index: 8; visibility: hidden;" class="rs-layer" data-idcheck="true"><img loading="lazy" decoding="async" src="//dcsas.com.co/wp-content/uploads/2021/03/home-second-1.png" width="600" height="423" data-no-retina=""> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap " style=" position:absolute;display:block;;pointer-events:none"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position:absolute;display:block;"><rs-layer id="slider-36-slide-62-layer-4" data-type="image" data-xy="x:c;xo:-409px,-418px,-151px,-73px;y:m;yo:86px,90px,88px,45px;" data-text="l:22;a:inherit;" data-dim="w:286px,201px,180px,120px;h:296px,208px,187px,124px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="x:-50px;tp:600;" data-frame_1="tp:600;st:400;sp:800;sR:400;" data-frame_999="o:0;tp:600;st:w;sR:7800;" style="z-index: 10; visibility: hidden;" class="rs-layer" data-idcheck="true"><img loading="lazy" decoding="async" src="//dcsas.com.co/wp-content/uploads/2021/03/home-second-2.png" width="276" height="286" data-no-retina=""> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+-->						</rs-slide>
+					</rs-slides>
+					<rs-progress class="rs-bottom" style="visibility: hidden !important; width: 0%;"></rs-progress>
+				</rs-module>
+				
+				<script type="text/javascript">setREVStartSize({c:'rev_slider_36_2',rl:[1240,1024,778,480],el:[600,500,320,250],gw:[1300,1100,600,300],gh:[600,500,320,250],layout:'fullwidth',mh:"0"});var revapi36,tpj;jQuery(function(){tpj=jQuery;if(tpj("#rev_slider_36_2").revolution==undefined){revslider_showDoubleJqueryError("#rev_slider_36_2");}else{revapi36=tpj("#rev_slider_36_2").show().revolution({sliderType:"hero",jsFileLocation:"//www.dcsas.com.co/wp-content/plugins/revslider/public/assets/js/",sliderLayout:"fullwidth",visibilityLevels:"1240,1024,778,480",gridwidth:"1300,1100,600,300",gridheight:"600,500,320,250",minHeight:"",editorheight:"600,500,320,250",responsiveLevels:"1240,1024,778,480",disableProgressBar:"on",navigation:{onHoverStop:false},viewPort:{enable:true,visible_area:"2%"},fallbacks:{allowHTML5AutoPlayOnAndroid:true},});}});</script>
+			</rs-module-wrap><rs-fw-forcer style="height:223.844px"></rs-fw-forcer></rs-fullwidth-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-elements-holder   mkdf-one-column  mkdf-responsive-mode-768 "><div class="mkdf-eh-item    " data-item-class="mkdf-eh-custom-1401" data-1367-1600="0 18% 0 12%" data-1025-1366="0 12%" data-769-1024="7% 8% 6% 13%" data-681-768="10% 0 6% 10%" data-680="12% 0 10% 2%">
+	<div class="mkdf-eh-item-inner">
+		<div class="mkdf-eh-item-content mkdf-eh-custom-1401" style="padding: 0 18% 0 12%">
+			<div class="mkdf-section-title-holder  mkdf-st-standard  mkdf-st-left-aligned " style="text-align: left">
+	<div class="mkdf-st-inner">
+        					<h4 class="mkdf-st-title" style="color: #ffffff">
+				Experiencia en integraciones B2B Y B2C			</h4>
+		        					<p class="mkdf-st-text" style="color: #f4f4f4;font-size: 15px;line-height: 22px">
+				Integración de servicios en línea para empresas en diferentes canales, tecnologías y soluciones de venta. Contamos con numerosas alianzas tecnológicas con importantes empresas de diferentes sectores que han depositado su confianza en nosotros.			</p>
+			</div>
+</div>		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1616081033466 mkdf-grid-lines-light" style="background-color:#e8e9ed"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-1 vc_col-md-10"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-section-title-holder  mkdf-st-standard   ">
+	<div class="mkdf-st-inner">
+        					<h4 class="mkdf-st-title">
+				Transformación digital			</h4>
+		        			</div>
+</div></div></div></div></div><div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div><div class="mkdf-row-grid-section-wrapper "><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-content-middle vc_row-flex mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_start_animation animated">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="658" height="472" src="https://www.dcsas.com.co/wp-content/uploads/revslider/landing-rev-img-151.png" class="vc_single_image-img attachment-large" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/revslider/landing-rev-img-151.png 658w, https://www.dcsas.com.co/wp-content/uploads/revslider/landing-rev-img-151-600x430.png 600w, https://www.dcsas.com.co/wp-content/uploads/revslider/landing-rev-img-151-300x215.png 300w" sizes="(max-width: 658px) 100vw, 658px"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-elements-holder   mkdf-one-column  mkdf-responsive-mode-768 "><div class="mkdf-eh-item    " data-item-class="mkdf-eh-custom-9332">
+	<div class="mkdf-eh-item-inner">
+		<div class="mkdf-eh-item-content mkdf-eh-custom-9332">
+			<div class="mkdf-section-title-holder  mkdf-st-standard  mkdf-st-left-aligned " style="text-align: left">
+	<div class="mkdf-st-inner">
+        		        					<p class="mkdf-st-text" style="font-size: 15px;line-height: 22px">
+				Somos un gran equipo que trabaja por la Transformación Digital de nuestros clientes y aliados con pensamiento e ideas, apuntando a una sociedad interconectada con la tecnología a través de la búsqueda constante de la innovación y nuevas experiencias. Dentro de nuestra filosofía corporativa propendemos por una acertada gestión del talento humano, el bienestar laboral y el desarrollo integral de nuestros empleados.			</p>
+			</div>
+</div>		</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1616088189542 mkdf-grid-lines-light" style="background-color:#f7f7f7"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-row-grid-section-wrapper "><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_inner vc_row-fluid mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-1 vc_col-md-10"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-section-title-holder  mkdf-st-standard   ">
+	<div class="mkdf-st-inner">
+        					<h4 class="mkdf-st-title">
+				Talento			</h4>
+		        					<p class="mkdf-st-text" style="font-size: 15px;line-height: 22px">
+				Contamos con grandes profesionales en diferentes áreas del conocimiento que forman un equipo multidisciplinario altamente calificado en las siguientes áreas de servicio:			</p>
+			</div>
+</div></div></div></div></div></div></div><div class="vc_empty_space" style="height: 70px"><span class="vc_empty_space_inner"></span></div><div class="mkdf-row-grid-section-wrapper "><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_inner vc_row-fluid mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-2.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-2.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-2-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Desarrollo e innovación</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-1.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-1.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-1-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Metodologías agiles</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-3.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-3.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-3-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Administración de redes de telecomunicación</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-4.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-4.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-4-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Administración de Bases de Datos</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div><div class="mkdf-row-grid-section-wrapper "><div class="mkdf-row-grid-section"><div class="vc_row wpb_row vc_inner vc_row-fluid mkdf-grid-lines-light"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-5.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-5.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-5-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Seguridad informática</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-7.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-7.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-7-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Gerentes de Proyectos TI</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-6 vc_col-xs-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="mkdf-iwt clearfix mkdf-iwt-with-custom-icon mkdf-iwt-no-hover-shadow  mkdf-iwt-icon-top mkdf-iwt-icon-tiny">
+    	<div class="mkdf-iwt-icon">
+									<img loading="lazy" decoding="async" width="161" height="161" src="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-6.png" class="attachment-full size-full" alt="" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-6.png 161w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Mesa-de-trabajo-6-150x150.png 150w" sizes="(max-width: 161px) 100vw, 161px">                						</div>
+	<div class="mkdf-iwt-content">
+        					<h5 class="mkdf-iwt-title">
+								<span class="mkdf-iwt-title-text">Soporte Técnico</span>
+							</h5>
+		        		        	</div>
+    </div><div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div></div></div></div></div>
+				</div>
+							</div>
+		        	</div>
+
+    </div>
+
+</div> <!-- close div.content_inner -->
+	</div> <!-- close div.content -->
+					<footer class="mkdf-page-footer ">
+				<div class="mkdf-footer-top-holder">
+    <div class="mkdf-footer-top-inner mkdf-grid">
+        <div class="mkdf-grid-row mkdf-footer-top-alignment-left">
+                            <div class="mkdf-column-content mkdf-grid-col-4">
+                    <div id="text-21" class="widget mkdf-footer-column-1 widget_text">			<div class="textwidget"><p><img decoding="async" class="alignleft size-thumbnail wp-image-5871" src="https://18.235.165.87/wp-content/uploads/2021/03/Datacenter-logo-Blanco-156x35px-150x35.png" alt="" width="150" srcset="https://www.dcsas.com.co/wp-content/uploads/2021/03/Datacenter-logo-Blanco-156x35px-150x35.png 150w, https://www.dcsas.com.co/wp-content/uploads/2021/03/Datacenter-logo-Blanco-156x35px.png 156w" sizes="(max-width: 150px) 100vw, 150px"></p>
+</div>
+		</div>                </div>
+                            <div class="mkdf-column-content mkdf-grid-col-4">
+                    <div id="text-24" class="widget mkdf-footer-column-2 widget_text">			<div class="textwidget"><h6><strong>Contacto</strong></h6>
+<p>Datacenter Colombia S.A.S<br>
+Avenida Calle 26 N° 69-76 Torre 3 Piso 10<br>
+Bogotá – Colombia<br>
+PBX: (+57)(601) 378 8888<br>
+<strong>info@dcsas.com.co</strong></p>
+</div>
+		</div>                </div>
+                            <div class="mkdf-column-content mkdf-grid-col-4">
+                    <div id="text-25" class="widget mkdf-footer-column-3 widget_text">			<div class="textwidget"><h6><strong>Enlace de Interés</strong></h6>
+<p><a href="https://dcsas.com.co/index.php/politica-de-tratamiento-de-datos-personales/">Política de tratamiento de datos personales</a></p>
+<p><a href="https://dcsas.com.co/index.php/politica-seguridad-informacion/">Política de Seguridad de la Información</a></p>
+</div>
+		</div><div id="block-2" class="widget mkdf-footer-column-3 widget_block">
+<ul class="wp-block-social-links is-layout-flex wp-block-social-links-is-layout-flex"><li class="wp-social-link wp-social-link-linkedin  wp-block-social-link"><a rel="noopener nofollow" target="_blank" href="https://co.linkedin.com/company/datacenter-colombia-s-a-s" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19.7,3H4.3C3.582,3,3,3.582,3,4.3v15.4C3,20.418,3.582,21,4.3,21h15.4c0.718,0,1.3-0.582,1.3-1.3V4.3 C21,3.582,20.418,3,19.7,3z M8.339,18.338H5.667v-8.59h2.672V18.338z M7.004,8.574c-0.857,0-1.549-0.694-1.549-1.548 c0-0.855,0.691-1.548,1.549-1.548c0.854,0,1.547,0.694,1.547,1.548C8.551,7.881,7.858,8.574,7.004,8.574z M18.339,18.338h-2.669 v-4.177c0-0.996-0.017-2.278-1.387-2.278c-1.389,0-1.601,1.086-1.601,2.206v4.249h-2.667v-8.59h2.559v1.174h0.037 c0.356-0.675,1.227-1.387,2.526-1.387c2.703,0,3.203,1.779,3.203,4.092V18.338z"></path></svg><span class="wp-block-social-link-label screen-reader-text">LinkedIn</span></a></li></ul>
+</div>                </div>
+                    </div>
+    </div>
+</div><div class="mkdf-footer-bottom-holder">
+    <div class="mkdf-footer-bottom-inner mkdf-grid">
+        <div class="mkdf-grid-row ">
+                            <div class="mkdf-grid-col-12">
+                    <div id="text-23" class="widget mkdf-footer-bottom-column-1 widget_text">			<div class="textwidget"><p>Datacenter Colombia | Todos los derechos reservados © 2021</p>
+</div>
+		</div>                </div>
+                    </div>
+    </div>
+</div>			</footer>
+			</div> <!-- close div.mkdf-wrapper-inner  -->
+</div> <!-- close div.mkdf-wrapper -->
+<script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+		<script type="text/javascript">if(typeof revslider_showDoubleJqueryError==="undefined"){function revslider_showDoubleJqueryError(sliderID){var err="<div class='rs_error_message_box'>";err+="<div class='rs_error_message_oops'>Oops...</div>";err+="<div class='rs_error_message_content'>";err+="You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";err+="To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";err+="<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";err+="</div>";err+="</div>";jQuery(sliderID).show().html(err);}}</script>
+		<script type="text/javascript">if(typeof revslider_showDoubleJqueryError==="undefined"){function revslider_showDoubleJqueryError(sliderID){var err="<div class='rs_error_message_box'>";err+="<div class='rs_error_message_oops'>Oops...</div>";err+="<div class='rs_error_message_content'>";err+="You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";err+="To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";err+="<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";err+="</div>";err+="</div>";jQuery(sliderID).show().html(err);}}</script>
+<link rel="stylesheet" id="vc_animate-css-css" href="https://www.dcsas.com.co/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">//<![CDATA[
+var wpcf7={"api":{"root":"https:\/\/www.dcsas.com.co\/index.php\/wp-json\/","namespace":"contact-form-7\/v1"}};
+//]]></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">//<![CDATA[
+var mejsL10n={"language":"es","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Est\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \u00faltima versi\u00f3n desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisi\u00f3n en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subt\u00edtulos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Ninguna","mejs.afrikaans":"Africano","mejs.albanian":"Albano","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e1n","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dan\u00e9s","mejs.dutch":"Holand\u00e9s","mejs.english":"Ingl\u00e9s","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Fin\u00e9s","mejs.french":"Franc\u00e9s","mejs.galician":"Gallego","mejs.german":"Alem\u00e1n","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00e9s","mejs.indonesian":"Indonesio","mejs.irish":"Irland\u00e9s","mejs.italian":"Italiano","mejs.japanese":"Japon\u00e9s","mejs.korean":"Coreano","mejs.latvian":"Let\u00f3n","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Malt\u00e9s","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00e9s","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espa\u00f1ol","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Thai","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00e9s","mejs.yiddish":"Yiddish"}};
+//]]></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.5.3" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">//<![CDATA[
+var _wpmejsSettings={"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//]]></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.5.3" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.draggable.min.js?ver=6.5.3" id="appear-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.appear.js?ver=6.5.3" id="draggable-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/modernizr.min.js?ver=6.5.3" id="modernizr-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.hoverIntent.min.js?ver=6.5.3" id="hoverintent-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.plugin.js?ver=6.5.3" id="jquery-plugin-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/owl.carousel.min.js?ver=6.5.3" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.waypoints.min.js?ver=6.5.3" id="waypoints-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/fluidvids.min.js?ver=6.5.3" id="fluidvids-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/perfect-scrollbar.jquery.min.js?ver=6.5.3" id="perfect-scrollbar-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/ScrollToPlugin.min.js?ver=6.5.3" id="scrolltoplugin-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/parallax.min.js?ver=6.5.3" id="parallax-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.waitforimages.js?ver=6.5.3" id="waitforimages-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.prettyPhoto.js?ver=6.5.3" id="prettyphoto-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.easing.1.3.js?ver=6.5.3" id="jquery-easing-1.3-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.1" id="isotope-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=6.5.3" id="packery-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.parallax-scroll.js?ver=6.5.3" id="parallaxscroll-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/swiper.min.js?ver=6.5.3" id="swiper-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules/plugins/jquery.ui.touch-punch.min.js?ver=6.5.3" id="jquery-ui-touch-punch-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.min.js?ver=6.5.3" id="countdown-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/counter/assets/js/plugins/counter.js?ver=6.5.3" id="counter-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/counter/assets/js/plugins/absoluteCounter.min.js?ver=6.5.3" id="absoluteCounter-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/custom-font/assets/js/plugins/typed.js?ver=6.5.3" id="typed-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/full-screen-sections/assets/js/plugins/jquery.fullPage.min.js?ver=6.5.3" id="fullPage-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/pie-chart/assets/js/plugins/easypiechart.js?ver=6.5.3" id="easypiechart-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/uncovering-sections/assets/js/plugins/curtain.js?ver=6.5.3" id="curtain-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/innovio-core/shortcodes/vertical-split-slider/assets/js/plugins/jquery.multiscroll.min.js?ver=6.5.3" id="multiscroll-js"></script>
+<script type="text/javascript" id="innovio-mikado-modules-js-extra">//<![CDATA[
+var mkdfGlobalVars={"vars":{"mkdfAddForAdminBar":0,"mkdfElementAppearAmount":-100,"mkdfAjaxUrl":"https:\/\/www.dcsas.com.co\/wp-admin\/admin-ajax.php","sliderNavPrevArrow":"arrow_carrot-left","sliderNavNextArrow":"arrow_carrot-right","mkdfStickyHeaderHeight":100,"mkdfStickyHeaderTransparencyHeight":100,"mkdfTopBarHeight":0,"mkdfLogoAreaHeight":0,"mkdfMenuAreaHeight":100,"mkdfMobileHeaderHeight":70}};var mkdfPerPageVars={"vars":{"mkdfMobileHeaderHeight":70,"mkdfStickyScrollAmount":0,"mkdfHeaderTransparencyHeight":0,"mkdfHeaderVerticalWidth":0}};
+//]]></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/themes/innovio/assets/js/modules.min.js?ver=6.5.3" id="innovio-mikado-modules-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://www.dcsas.com.co/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.1" id="vc_waypoints-js"></script>
+
+</body></html>
